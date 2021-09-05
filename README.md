@@ -9,7 +9,7 @@ To use the code, replace api_id, api_hash, phone and fileName variables with you
 
 Later, use /connect command to use the blocklist commands in PM instead of group.
 
-Lastly, run the code and wait for it to end. It takes a long time then expected because due to message limitations of the bot, delays are used. In total, 200 second of extra time is used.
+Lastly, run the code and wait for it to end. Telethon may ask for your phone number and Telegram password in this step. Execution takes a long time then expected because due to message limitations of the bot, delays are used. In total, 200 second of extra time is used.
 
 
 
